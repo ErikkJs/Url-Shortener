@@ -8,5 +8,5 @@ URL Shortener boiler plate code, with this you can simply add your MongoDB token
 Runs the app in the development mode.
 Open http://localhost:5000 to view it in the browser.
 
-![behold](https://github-images-uswest.s3-us-west-1.amazonaws.com/previewUrl.gif)
+![behold](https://github-images-uswest.s3-us-west-1.amazonaws.com/previewUrlShortener.gif)
 
