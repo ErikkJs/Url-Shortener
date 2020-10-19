@@ -1,5 +1,5 @@
 # Url-Shortener
-URL Shortener boiler plate code, with this you can simply add your mongoDb token and start tracking clicks on shortened links.
+URL Shortener boiler plate code, with this you can simply add your MongoDB token and start tracking clicks on shortened links.
 
 # How to Use
 * npm install 
